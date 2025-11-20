@@ -40,4 +40,4 @@ The goal of this project is to transform raw hospital emergency room data into a
 - Sparkline-based trendlines for visual analysis
 
 ## Dashboard Preview
-![Dashboard Preview](Hospital_ER_Dashboard.png)
+![Dashboard Preview](https://github.com/sarker-nishat/Hospital_Emergency_Room_Dashboard_Analysis/blob/3cbfed4eac70742cde90ed77f8ed951ac8ea5f1e/Hospital%20ER%20Dashboard.png)
