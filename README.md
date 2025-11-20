@@ -72,5 +72,5 @@ The goal of this project is to transform raw hospital emergency room data into a
 ###🧑‍🦱 Author
 **Nishat Sarker**
 Data Analytics | Excel | Power Query | Sql | Python | Power BI
-Email: ![Email](nishatsarker.analyst@gmail.com)
-LinkedIn: ![LinkedIn](www.linkedin.com/in/thenishatsarker)
+Email: nishatsarker.analyst@gmail.com
+LinkedIn: www.linkedin.com/in/thenishatsarker
