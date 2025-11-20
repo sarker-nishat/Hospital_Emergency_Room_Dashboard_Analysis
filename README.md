@@ -1,5 +1,5 @@
 # Hospital Emergency Room Dashboard – Excel Project
-This project is an interactive Hospital Emergency Room (ER) Analysis Dashboard built using Microsoft Excel, designed to help healthcare stakeholders monitor key metrics, improve decision-making, and optimize patient management.
+This project is an interactive **Hospital Emergency Room (ER) Analysis Dashboard** built using Microsoft Excel, designed to help healthcare stakeholders monitor key metrics, improve decision-making, and optimize patient management.
 
 ## Project Overview
 The goal of this project is to transform raw hospital emergency room data into actionable insights. Using Excel’s advanced tools like **Power Query**, **Power Pivot**, **DAX**, and **Pivot Tables**, this dashboard provides a comprehensive overview of patient flow, waiting time, satisfaction, admission status, gender trends, and department referrals.
