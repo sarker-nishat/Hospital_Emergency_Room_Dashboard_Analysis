@@ -41,3 +41,36 @@ The goal of this project is to transform raw hospital emergency room data into a
 
 ## Dashboard Preview
 ![Dashboard Preview](https://github.com/sarker-nishat/Hospital_Emergency_Room_Dashboard_Analysis/blob/3cbfed4eac70742cde90ed77f8ed951ac8ea5f1e/Hospital%20ER%20Dashboard.png)
+
+## 📂 Project Structure
+📦 Hospital-ER-Dashboard
+│
+├── 📄 Hospital Emergency Room Data.csv
+├── 📄 Hospital_ER_Management.xlsx
+├── 🖼️ Hospital ER Dashboard.png
+└── 📄 README.md
+
+## How to use
+1. Download the **Excel file**
+2. Open it in Excel (recommended: Excel 2016 or later)
+3. Go to **Data → Refresh All** to load Power Query data
+4. Use the **Month slicer** to navigate
+5. Explore KPIs and charts interactively
+
+## 🧠 What I Learned from This Project
+- Building automated pipelines using Power Query
+- Creating data models using Power Pivot
+- Writing DAX formulas for KPI measurement
+- Designing professional dashboards for decision-making
+- Understanding healthcare-related analytics
+
+## 🔮 future Improvements
+- Add Power BI version
+- Automation using Python (Pandas)
+- Add predictive analytics (forecasting wait times)
+
+###🧑‍🦱 Author
+**Nishat Sarker**
+Data Analytics | Excel | Power Query | Sql | Python | Power BI
+Email: ![Email](nishatsarker.analyst@gmail.com)
+LinkedIn: ![LinkedIn](www.linkedin.com/in/thenishatsarker)
