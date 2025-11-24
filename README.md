@@ -21,14 +21,14 @@ The goal of this project is to transform raw hospital emergency room data into a
 - **Slicers**: Month-level filtering.
 
 ## 📊 Key KPI's
-**1. Total Number of Patients**
-**2. Average Wait Time**
-**3. Patient Satisfaction Score**
-**4. Admission vs Non-Admission Status**
-**5. Timeliness (Patients seen within 30 minutes)**
-**6. Gender Ratio**
-**7. Age Group Distribution**
-**8. Department Referral Count**
+**1. Total Number of Patients**  
+**2. Average Wait Time**  
+**3. Patient Satisfaction Score**  
+**4. Admission vs Non-Admission Status**  
+**5. Timeliness (Patients seen within 30 minutes)**  
+**6. Gender Ratio**  
+**7. Age Group Distribution**  
+**8. Department Referral Count**  
 
 ## 📈 Dashboard Insights
 **The dashboard provides:**
